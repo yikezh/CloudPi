@@ -1,0 +1,5 @@
+Cloud Computing Project1
+web-tier
+
+run this web-tier by executing start.sh
+making a request to the web tier using URL(http://54.69.51.65/cloudpi.php?input=x) can get the output in the HTML page. 

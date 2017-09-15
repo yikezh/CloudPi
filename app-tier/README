@@ -1,0 +1,5 @@
+Cloud Computing Project1
+app-tier
+
+app tier can be deployed using a pre-prepared AMI and run automatilly with instructions from web tier.
+When there is no massage in the queue, app tier would terminate themselves. 
